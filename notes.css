@@ -1,0 +1,25 @@
+*{
+
+
+  /* heading & content color */
+--gentle-black: #28004B;
+
+/* blog background */
+
+--content-bg: #E5E5E5;
+
+/* sticky sectoin */
+--sticky-bg: #fff;
+--border-bullet:#6D4AD3;
+--title: #351A4D;
+--link: #8059C8;
+
+}
+
+/* //styleName: Heading / Heading 3;
+font-family: Avenir Next;
+font-size: 48px;
+font-weight: 700;
+line-height: 66px;
+letter-spacing: -0.005em;
+text-align: center; */
